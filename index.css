@@ -1,0 +1,57 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center ;
+    Font-size : 15px;
+    font-family: 'Outfit', sans-serif;
+  
+
+}
+
+
+.one  {
+
+background-color:  hsl(212, 45%, 89%);
+width: 80%;
+
+padding: 50pX;  
+margin-left: 10%;
+margin-right: 10% ;
+margin-top: 3%;
+height: 500px;
+
+display: flex;
+justify-content: center;
+align-items: center ;
+
+
+}
+.two {
+padding: 10px;
+background-color: hsl(0, 0%, 100%);
+border-radius: 2% ;
+}
+img {
+  width: 200px ; 
+  border-radius: 2% ;
+  margin-top: 0;
+  
+
+}
+
+.pho {
+margin-top: 0;
+
+}
+.tex {
+ width: 200px;
+ font-size: large;
+text-align: center;
+
+}
+.text {
+    width: 200px;
+    font-size: 12px;
+    opacity: 0.5;
+    text-align: center;
+}
